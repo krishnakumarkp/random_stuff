@@ -182,9 +182,131 @@ $(function  () {
 	  			"answer": ""
   			},
 
-  			
-  			
-  			
+  		]
+  	},
+    {
+  		"header":"WEEK 6 - Application Engineering",
+  		"lessons": [ 
+			{
+	  			"name":"Introduction",
+	  			"lecture":"3zcbhNHebAc",
+	  			"quiz": "",
+	  			"answer": ""
+  			},
+  			{
+	  			"name":"Write Concern",
+	  			"lecture":"EtEPEkX3koo",
+	  			"quiz": "",
+	  			"answer": "2-UO105PDrk"
+  			},
+            {
+	  			"name":"Network Errors",
+	  			"lecture":"BycNYXFpqhM",
+	  			"quiz": "",
+	  			"answer": "64mAA3SEnkg"
+  			},
+            {
+	  			"name":"The Pymongo Driver",
+	  			"lecture":"H1zGLx8ggXk",
+	  			"quiz": "",
+	  			"answer": "ghbQtF5YfHw"
+  			},
+            {
+	  			"name":"Introduction to Replication",
+	  			"lecture":"f1WTYGORU3w",
+	  			"quiz": "",
+	  			"answer": "XCssKzhlnZU"
+  			},
+            {
+	  			"name":"Replica Set Elections",
+	  			"lecture":"WFXSVHO78bQ",
+	  			"quiz": "",
+	  			"answer": "vrUxTTD-XwA"
+  			},
+            {
+	  			"name":"Write Consistency",
+	  			"lecture":"Oqf_Eza-s1M",
+	  			"quiz": "",
+	  			"answer": "SjaJEYK1u3E"
+  			},
+            {
+	  			"name":"Creating a Replica Set",
+	  			"lecture":"flCFVFBRsKI",
+	  			"quiz": "",
+	  			"answer": "ibZVf59aUj8"
+  			},
+            {
+	  			"name":"Replica Set Internals",
+	  			"lecture":"lx0Kj4n4EWM",
+	  			"quiz": "",
+	  			"answer": "_am2mdVF1uk"
+  			},
+            {
+	  			"name":"",
+	  			"lecture":"",
+	  			"quiz": "",
+	  			"answer": ""
+  			},
+            {
+	  			"name":"",
+	  			"lecture":"",
+	  			"quiz": "",
+	  			"answer": ""
+  			},
+            {
+	  			"name":"",
+	  			"lecture":"",
+	  			"quiz": "",
+	  			"answer": ""
+  			},
+             {
+	  			"name":"",
+	  			"lecture":"",
+	  			"quiz": "",
+	  			"answer": ""
+  			},
+            {
+	  			"name":"",
+	  			"lecture":"",
+	  			"quiz": "",
+	  			"answer": ""
+  			},
+             {
+	  			"name":"",
+	  			"lecture":"",
+	  			"quiz": "",
+	  			"answer": ""
+  			},
+            {
+	  			"name":"",
+	  			"lecture":"",
+	  			"quiz": "",
+	  			"answer": ""
+  			},
+             {
+	  			"name":"",
+	  			"lecture":"",
+	  			"quiz": "",
+	  			"answer": ""
+  			},
+            {
+	  			"name":"",
+	  			"lecture":"",
+	  			"quiz": "",
+	  			"answer": ""
+  			},
+             {
+	  			"name":"",
+	  			"lecture":"",
+	  			"quiz": "",
+	  			"answer": ""
+  			},
+            {
+	  			"name":"",
+	  			"lecture":"",
+	  			"quiz": "",
+	  			"answer": ""
+  			},
   		]
   	},
   	
